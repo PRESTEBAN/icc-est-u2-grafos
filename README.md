@@ -13,4 +13,4 @@
 ---
 
 ## 🛠️ Imagen de la práctica:
-![Imagen de la práctica](assets/image.png)
+![Imagen de la práctica](assets/image1.png)
