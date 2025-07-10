@@ -7,7 +7,7 @@
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Esteban Vicente Pesantez Rea
-- **Fecha:** 08/07/2025
+- **Fecha:** 10/07/2025
 - **Profesor:** Ing. Pablo Torres
 
 ---
